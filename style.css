@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background:rgb(89, 126, 16);
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+button{
+    padding: 10px;
+    background-color: orange;
+    border: none;
+    font-size: 1em;
+    margin-top: 20px;
+    text-align: center;
+}
+button:hover{
+    cursor: pointer;
+}
